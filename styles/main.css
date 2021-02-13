@@ -167,6 +167,11 @@ button{
   display: table-cell;
 }
 
+.pay .sidy-by-side{
+  display: flex;
+  justify-content: space-between;
+}
+
 .description{
   flex: 1;
 }
