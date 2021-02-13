@@ -142,6 +142,11 @@ article h2.open-forever{
 .product span{
   display: block;
 }
+
+.pay span{
+  font-weight: bold;
+}
+
 .product img{
   width: 100%;
   max-width: 250px;
