@@ -97,6 +97,12 @@ article{
   padding-left: 10px;
   margin: 1em 1em 1em 0;
 }
+
+article.emphasize {
+  box-shadow: 1px 0px 5px #27ae60;
+  padding: 1em;
+}
+
 article:last-of-type{
   margin-right: 0;
 }
